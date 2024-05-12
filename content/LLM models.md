@@ -1,0 +1,7 @@
+- [[mixtral]] and the family
+- [[llama3]]
+- [[ChatGPT]]
+- [[phi]]
+- [[cluade]]
+- [[zypher]]
+- 
