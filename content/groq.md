@@ -1,4 +1,4 @@
-- [groq](https://groq.com/) is both a [[platform]] and a [[multi model chat service]]. 
+- [groq](https://groq.com/) is both a [[platform]] and a [[multi model chat service]]. ^about
 - You can chat with 3-4 models like [[mixtral]], [[llama3]], [[gemma]], etc.
 - They run these hosted models on their own developed [[LPU]] units, providing very very fast [[inference]] speeds.
 - [[LPU]] chips developed by ex-google members (who were involved in [[TPU]] chip developments).
